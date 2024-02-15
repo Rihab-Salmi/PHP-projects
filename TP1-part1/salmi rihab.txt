@@ -1,0 +1,30 @@
+info personnels
+ Nom : salmi
+ Prénom : rihab
+ Age : 22
+ Téléphone : 0642760292
+ Email :rihabsalmi2609@gmail.com
+
+info académiques
+ Filière : GI
+ Année Scolaire : 2
+ Modules suivies : reseaux av , web avancee , 
+ Nombre de projets : 5
+
+Compétences
+ Liste des projets : projet1
+ projet2
+ 
+ Centres d'intérets : collecting random things
+
+ Langues parlées : arb
+ fr
+ eng
+ esp
+
+
+Remarques
+nothing
+
+File name
+ myCv.pdf
